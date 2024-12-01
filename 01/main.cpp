@@ -84,7 +84,7 @@ int main() {
 	Sorter sorter = Sorter();
 
 	if (!file.is_open()) {
-		std::cerr << "ur mom" << std::endl;
+		std::cerr << "Could not open file \"input.data\"" << std::endl;
 		return (1);
 	}
 
