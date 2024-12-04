@@ -79,12 +79,12 @@ class Sorter {
 
 int main() {
 
-	std::ifstream file("input.data");
+	std::ifstream file("data.in");
 	ListParser parser = ListParser();
 	Sorter sorter = Sorter();
 
 	if (!file.is_open()) {
-		std::cerr << "Could not open file \"input.data\"" << std::endl;
+		std::cerr << "Could not open file \"data.in\"" << std::endl;
 		return (1);
 	}
 

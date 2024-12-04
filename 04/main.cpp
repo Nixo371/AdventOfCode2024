@@ -123,7 +123,7 @@ int main(int argc, char *argv[]) {
 	ReportAnalyzer analyzer = ReportAnalyzer();
 	std::vector<std::vector<int>> reports;
 
-	std::string file_name = "input.data";
+	std::string file_name = "data.in";
 	std::ifstream file(file_name);
 	if (!file.is_open()) {
 		std::cerr << "Could not open file \"" << file_name << "\"" << std::endl;

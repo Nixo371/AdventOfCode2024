@@ -107,9 +107,9 @@ int main() {
 	ReportAnalyzer analyzer = ReportAnalyzer();
 	std::vector<std::vector<int>> reports;
 
-	std::ifstream file("input.data");
+	std::ifstream file("data.in");
 	if (!file.is_open()) {
-		std::cerr << "Could not open file \"input.data\"" << std::endl;
+		std::cerr << "Could not open file \"data.in\"" << std::endl;
 		return (1);
 	}
 
