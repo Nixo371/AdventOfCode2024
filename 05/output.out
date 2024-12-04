@@ -1,0 +1,471 @@
+Testing "mul(317,745)" -> 317,745)
+First Number: 317
+Chopping string -> 745)
+Second Number: 745
+Testing "mul(67,323)s" -> 67,323)s
+First Number: 67
+Chopping string -> 323)s
+Second Number: 323
+Testing "mul(304,399)" -> 304,399)
+First Number: 304
+Chopping string -> 399)
+Second Number: 399
+Testing "mul(268,613)" -> 268,613)
+First Number: 268
+Chopping string -> 613)
+Second Number: 613
+Testing "mul(41,576)?" -> 41,576)?
+First Number: 41
+Chopping string -> 576)?
+Second Number: 576
+Testing "mul(335,137)" -> 335,137)
+First Number: 335
+Chopping string -> 137)
+Second Number: 137
+Testing "mul(9,214)#(" -> 9,214)#(
+First Number: 9
+Chopping string -> 214)#(
+Second Number: 214
+Testing "mul(416,854)" -> 416,854)
+First Number: 416
+Chopping string -> 854)
+Second Number: 854
+Testing "mul(361,538)" -> 361,538)
+First Number: 361
+Chopping string -> 538)
+Second Number: 538
+Testing "mul(391,113)" -> 391,113)
+First Number: 391
+Chopping string -> 113)
+Second Number: 113
+Testing "mul(9,629)fr" -> 9,629)fr
+First Number: 9
+Chopping string -> 629)fr
+Second Number: 629
+Testing "mul(853,523)" -> 853,523)
+First Number: 853
+Chopping string -> 523)
+Second Number: 523
+Testing "mul(771,533)" -> 771,533)
+First Number: 771
+Chopping string -> 533)
+Second Number: 533
+Testing "mul(39,273)m" -> 39,273)m
+First Number: 39
+Chopping string -> 273)m
+Second Number: 273
+Testing "mul(627,522)" -> 627,522)
+First Number: 627
+Chopping string -> 522)
+Second Number: 522
+Testing "mul(729,375)" -> 729,375)
+First Number: 729
+Chopping string -> 375)
+Second Number: 375
+Testing "mul(714,984)" -> 714,984)
+First Number: 714
+Chopping string -> 984)
+Second Number: 984
+Testing "mul(86,727)[" -> 86,727)[
+First Number: 86
+Chopping string -> 727)[
+Second Number: 727
+Testing "mul(148,442)" -> 148,442)
+First Number: 148
+Chopping string -> 442)
+Second Number: 442
+Testing "mul(659,930)" -> 659,930)
+First Number: 659
+Chopping string -> 930)
+Second Number: 930
+Testing "mul(606,455)" -> 606,455)
+First Number: 606
+Chopping string -> 455)
+Second Number: 455
+Testing "mul(661,278)" -> 661,278)
+First Number: 661
+Chopping string -> 278)
+Second Number: 278
+Testing "mul(511,224)" -> 511,224)
+First Number: 511
+Chopping string -> 224)
+Second Number: 224
+Testing "mul(741,103)" -> 741,103)
+First Number: 741
+Chopping string -> 103)
+Second Number: 103
+Testing "mul(405,226)" -> 405,226)
+First Number: 405
+Chopping string -> 226)
+Second Number: 226
+Testing "mul(690,221)" -> 690,221)
+First Number: 690
+Chopping string -> 221)
+Second Number: 221
+Testing "mul(743,671)" -> 743,671)
+First Number: 743
+Chopping string -> 671)
+Second Number: 671
+Testing "mul(904,48){" -> 904,48){
+First Number: 904
+Chopping string -> 48){
+Second Number: 48
+Testing "mul(214,669)" -> 214,669)
+First Number: 214
+Chopping string -> 669)
+Second Number: 669
+Testing "mul(313,778)" -> 313,778)
+First Number: 313
+Chopping string -> 778)
+Second Number: 778
+Testing "mul(328,558)" -> 328,558)
+First Number: 328
+Chopping string -> 558)
+Second Number: 558
+Testing "mul(16,534)w" -> 16,534)w
+First Number: 16
+Chopping string -> 534)w
+Second Number: 534
+Testing "mul(591,671)" -> 591,671)
+First Number: 591
+Chopping string -> 671)
+Second Number: 671
+Testing "mul(158,309)" -> 158,309)
+First Number: 158
+Chopping string -> 309)
+Second Number: 309
+Testing "mul(305,375)" -> 305,375)
+First Number: 305
+Chopping string -> 375)
+Second Number: 375
+Testing "mul(395,733)" -> 395,733)
+First Number: 395
+Chopping string -> 733)
+Second Number: 733
+Testing "mul(764,920)" -> 764,920)
+First Number: 764
+Chopping string -> 920)
+Second Number: 920
+Testing "mul(787,366)" -> 787,366)
+First Number: 787
+Chopping string -> 366)
+Second Number: 366
+Testing "mul(260,940)" -> 260,940)
+First Number: 260
+Chopping string -> 940)
+Second Number: 940
+Testing "mul(904,953)" -> 904,953)
+First Number: 904
+Chopping string -> 953)
+Second Number: 953
+Testing "mul(803,943)" -> 803,943)
+First Number: 803
+Chopping string -> 943)
+Second Number: 943
+Testing "mul(97,179)$" -> 97,179)$
+First Number: 97
+Chopping string -> 179)$
+Second Number: 179
+Testing "mul(757,133)" -> 757,133)
+First Number: 757
+Chopping string -> 133)
+Second Number: 133
+Testing "mul(949,638)" -> 949,638)
+First Number: 949
+Chopping string -> 638)
+Second Number: 638
+Testing "mul(533,324)" -> 533,324)
+First Number: 533
+Chopping string -> 324)
+Second Number: 324
+Testing "mul(177,653)" -> 177,653)
+First Number: 177
+Chopping string -> 653)
+Second Number: 653
+Testing "mul(361,108)" -> 361,108)
+First Number: 361
+Chopping string -> 108)
+Second Number: 108
+Testing "mul(912,339)" -> 912,339)
+First Number: 912
+Chopping string -> 339)
+Second Number: 339
+Testing "mul(130,4)<&" -> 130,4)<&
+First Number: 130
+Chopping string -> 4)<&
+Second Number: 4
+Testing "mul(501,376)" -> 501,376)
+First Number: 501
+Chopping string -> 376)
+Second Number: 376
+Testing "mul(166,904)" -> 166,904)
+First Number: 166
+Chopping string -> 904)
+Second Number: 904
+Testing "mul(229,929)" -> 229,929)
+First Number: 229
+Chopping string -> 929)
+Second Number: 929
+Testing "mul(481,574)" -> 481,574)
+First Number: 481
+Chopping string -> 574)
+Second Number: 574
+Testing "mul(989,487)" -> 989,487)
+First Number: 989
+Chopping string -> 487)
+Second Number: 487
+Testing "mul(398,359)" -> 398,359)
+First Number: 398
+Chopping string -> 359)
+Second Number: 359
+Testing "mul(110,756)" -> 110,756)
+First Number: 110
+Chopping string -> 756)
+Second Number: 756
+Testing "mul(300,194)" -> 300,194)
+First Number: 300
+Chopping string -> 194)
+Second Number: 194
+Testing "mul(87,414)$" -> 87,414)$
+First Number: 87
+Chopping string -> 414)$
+Second Number: 414
+Testing "mul(551,403)" -> 551,403)
+First Number: 551
+Chopping string -> 403)
+Second Number: 403
+Testing "mul(92,391){" -> 92,391){
+First Number: 92
+Chopping string -> 391){
+Second Number: 391
+Testing "mul(598,480)" -> 598,480)
+First Number: 598
+Chopping string -> 480)
+Second Number: 480
+Testing "mul(644,80)%" -> 644,80)%
+First Number: 644
+Chopping string -> 80)%
+Second Number: 80
+Testing "mul(254,510)" -> 254,510)
+First Number: 254
+Chopping string -> 510)
+Second Number: 510
+Testing "mul(432,50)&" -> 432,50)&
+First Number: 432
+Chopping string -> 50)&
+Second Number: 50
+Testing "mul(128,797)" -> 128,797)
+First Number: 128
+Chopping string -> 797)
+Second Number: 797
+Testing "mul(210,512)" -> 210,512)
+First Number: 210
+Chopping string -> 512)
+Second Number: 512
+Testing "mul(22,316)~" -> 22,316)~
+First Number: 22
+Chopping string -> 316)~
+Second Number: 316
+Testing "mul(228,533)" -> 228,533)
+First Number: 228
+Chopping string -> 533)
+Second Number: 533
+Testing "mul(912,39)@" -> 912,39)@
+First Number: 912
+Chopping string -> 39)@
+Second Number: 39
+Testing "mul(808,845)" -> 808,845)
+First Number: 808
+Chopping string -> 845)
+Second Number: 845
+Testing "mul(444,403)" -> 444,403)
+First Number: 444
+Chopping string -> 403)
+Second Number: 403
+Testing "mul(420,83))" -> 420,83))
+First Number: 420
+Chopping string -> 83))
+Second Number: 83
+Testing "mul(738,977)" -> 738,977)
+First Number: 738
+Chopping string -> 977)
+Second Number: 977
+Testing "mul(739,424)" -> 739,424)
+First Number: 739
+Chopping string -> 424)
+Second Number: 424
+Testing "mul(21,79)(h" -> 21,79)(h
+First Number: 21
+Chopping string -> 79)(h
+Second Number: 79
+Testing "mul(886,756)" -> 886,756)
+First Number: 886
+Chopping string -> 756)
+Second Number: 756
+Testing "mul(959]+mul" -> 959]+mul
+First Number: 959
+Testing "mul(510,621)" -> 510,621)
+First Number: 510
+Chopping string -> 621)
+Second Number: 621
+Testing "mul(92,339)s" -> 92,339)s
+First Number: 92
+Chopping string -> 339)s
+Second Number: 339
+Testing "mul(827,684)" -> 827,684)
+First Number: 827
+Chopping string -> 684)
+Second Number: 684
+Testing "mul(249,131)" -> 249,131)
+First Number: 249
+Chopping string -> 131)
+Second Number: 131
+Testing "mul(106,569)" -> 106,569)
+First Number: 106
+Chopping string -> 569)
+Second Number: 569
+Testing "mul(998,733)" -> 998,733)
+First Number: 998
+Chopping string -> 733)
+Second Number: 733
+Testing "mul(653,299)" -> 653,299)
+First Number: 653
+Chopping string -> 299)
+Second Number: 299
+Testing "mul(942,849)" -> 942,849)
+First Number: 942
+Chopping string -> 849)
+Second Number: 849
+Testing "mul(884,418)" -> 884,418)
+First Number: 884
+Chopping string -> 418)
+Second Number: 418
+Testing "mul(765,279)" -> 765,279)
+First Number: 765
+Chopping string -> 279)
+Second Number: 279
+Testing "mul(230,66)+" -> 230,66)+
+First Number: 230
+Chopping string -> 66)+
+Second Number: 66
+Testing "mul(830,643)" -> 830,643)
+First Number: 830
+Chopping string -> 643)
+Second Number: 643
+Testing "mul(549,381)" -> 549,381)
+First Number: 549
+Chopping string -> 381)
+Second Number: 381
+Testing "mul(384,650)" -> 384,650)
+First Number: 384
+Chopping string -> 650)
+Second Number: 650
+Testing "mul(156,98)?" -> 156,98)?
+First Number: 156
+Chopping string -> 98)?
+Second Number: 98
+Testing "mul(848,696)" -> 848,696)
+First Number: 848
+Chopping string -> 696)
+Second Number: 696
+Testing "mul(916,489)" -> 916,489)
+First Number: 916
+Chopping string -> 489)
+Second Number: 489
+Testing "mul(795,164)" -> 795,164)
+First Number: 795
+Chopping string -> 164)
+Second Number: 164
+Testing "mul(681,258)" -> 681,258)
+First Number: 681
+Chopping string -> 258)
+Second Number: 258
+Testing "mul(548,602)" -> 548,602)
+First Number: 548
+Chopping string -> 602)
+Second Number: 602
+Testing "mul(961,356)" -> 961,356)
+First Number: 961
+Chopping string -> 356)
+Second Number: 356
+Testing "mul(648,723)" -> 648,723)
+First Number: 648
+Chopping string -> 723)
+Second Number: 723
+Testing "mul(467,182)" -> 467,182)
+First Number: 467
+Chopping string -> 182)
+Second Number: 182
+Testing "mul(619,371)" -> 619,371)
+First Number: 619
+Chopping string -> 371)
+Second Number: 371
+Testing "mul(437,812)" -> 437,812)
+First Number: 437
+Chopping string -> 812)
+Second Number: 812
+Testing "mul(46,936)w" -> 46,936)w
+First Number: 46
+Chopping string -> 936)w
+Second Number: 936
+Testing "mul(365,654)" -> 365,654)
+First Number: 365
+Chopping string -> 654)
+Second Number: 654
+Testing "mul(870,487)" -> 870,487)
+First Number: 870
+Chopping string -> 487)
+Second Number: 487
+Testing "mul(467,737)" -> 467,737)
+First Number: 467
+Chopping string -> 737)
+Second Number: 737
+Testing "mul(83,429)<" -> 83,429)<
+First Number: 83
+Chopping string -> 429)<
+Second Number: 429
+Testing "mul(325,852)" -> 325,852)
+First Number: 325
+Chopping string -> 852)
+Second Number: 852
+Testing "mul(354,858)" -> 354,858)
+First Number: 354
+Chopping string -> 858)
+Second Number: 858
+Testing "mul(452,532)" -> 452,532)
+First Number: 452
+Chopping string -> 532)
+Second Number: 532
+Testing "mul(496,103)" -> 496,103)
+First Number: 496
+Chopping string -> 103)
+Second Number: 103
+Testing "mul(670,785)" -> 670,785)
+First Number: 670
+Chopping string -> 785)
+Second Number: 785
+Testing "mul(159,685)" -> 159,685)
+First Number: 159
+Chopping string -> 685)
+Second Number: 685
+Testing "mul(554,566)" -> 554,566)
+First Number: 554
+Chopping string -> 566)
+Second Number: 566
+Testing "mul(795,238)" -> 795,238)
+First Number: 795
+Chopping string -> 238)
+Second Number: 238
+Testing "mul(127,756)" -> 127,756)
+First Number: 127
+Chopping string -> 756)
+Second Number: 756
+Testing "mul(521,571)" -> 521,571)
+First Number: 521
+Chopping string -> 571)
+Second Number: 571
+Testing "mul(124,683)" -> 124,683)
+First Number: 124
+Chopping string -> 683)
+Second Number: 683
+Total: 27623467
