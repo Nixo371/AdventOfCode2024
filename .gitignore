@@ -2,3 +2,5 @@
 **/a.out
 **/data.out
 **/test.in
+**/compile_commands.json
+**/.cache
