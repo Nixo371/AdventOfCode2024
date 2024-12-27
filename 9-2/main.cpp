@@ -209,7 +209,7 @@ int main(int argc, char *argv[]) {
 		}
 	}
 	
-	std::string file_name = "data.in";
+	std::string file_name = "test.in";
 	FileReader reader = FileReader(file_name);
 	if (!reader.is_open()) {
 		return (1);
